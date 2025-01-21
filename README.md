@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![snake gif](https://github.com/samedinaime20/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/samedinaime20/samedinaime20/blob/output/github-snake-dark.svg)
