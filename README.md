@@ -1,4 +1,4 @@
-#When do accountants fall over?
+When do accountants fall over?
 When they lose their balance.
 
 
